@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rokon07
-- 🌱 I’m currently learning To create mobile applications it google maps api
-- 💞️ I’m looking to collaborate on projects that solve an everyday problem
-- 📫 How to reach me: email me @ rokonalshahriar@gmail.com
+- 🎓 Pursuing Master's in Software Engineering from Penn State university
+- 💼 Open to new career oppurtunities LinkedIn: https://www.linkedin.com/in/mohdrokon/
+- 📫 Email me @ rokonalshahriar@gmail.com
 
 <!---
 rokon07/rokon07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
